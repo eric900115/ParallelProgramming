@@ -12,6 +12,9 @@ NTHU Parallel Programming
 **HW4 UCX**
 > Trace code and implementation in the UCX framework.
 
+**Final Project**
+> Implementation of the k-means algorithm using OpenMP and SSE for single-node multi-core environments, MPI and OpenMP for multi-node environments, and CUDA for GPU-based environments. The work can be found in [this respository](https://github.com/eric900115/Parallel-Kmeans).
+
 **Score**
 - HW1 : 83
 - HW2 : 92
