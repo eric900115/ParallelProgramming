@@ -20,4 +20,5 @@ NTHU Parallel Programming
 - HW2 : 92
 - HW3 : 94
 - HW4 : 75
+- Final Project : 90
 - Final Rank : A+
